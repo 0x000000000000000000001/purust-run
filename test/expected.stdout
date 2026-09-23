@@ -1,0 +1,41 @@
+(Left "Not 12")
+(Tuple "Hello" (Left "Not 12"))
+(Right (Tuple "World" 12))
+Done
+(Tuple 100000 100000)
+Hello, there.
+What is your name?
+Nice to meet you, Gerald!
+(Left "Not 12")
+(Tuple "Hello" (Left "Not 12"))
+(Right (Tuple "World" 12))
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+1
+2
+3
+4
+5
+[2,3,4,5,6]
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+I'm famished!
+Outrageous!
+(Tuple 10 unit)
+I guess I'll wait...
